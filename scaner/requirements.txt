@@ -1,0 +1,8 @@
+tesseract -->se necesita que este instalado-->sudo apt install tesseract-ocr 
+tesseract --list-lengs---> se necesita instalar idioma español si no esta instalado--> sudo apt install tesseract-ocr-spa -y
+
+numpy==1.25.2
+opencv-python==4.8.0.76
+packaging==23.1
+Pillow==10.0.0
+pytesseract==0.3.10
