@@ -1,3 +1,4 @@
 #ignorando el entorno virtual que no es necesario para git
 scaner/virtual_scan/
 ReconocerNumeros/virtualNumeros/
+calculadora/venv
